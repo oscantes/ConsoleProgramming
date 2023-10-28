@@ -19,7 +19,3 @@ for (int i = 0; i < 2; i++)
 {
     Console.WriteLine("Hello, World!");
 }
-
-//test modification
-
-//test modification from VS
